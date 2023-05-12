@@ -1,0 +1,4 @@
+l0tv_padmm_color_for_plot_fobj-----L0TV
+l0tv_padmm_color_for_plot_fobj11-----L0TV+nuclear norm
+L0_OGS_ADMM1-----L0OGSTV
+DetectionTVL1ADMM-----L1TV with Detection
